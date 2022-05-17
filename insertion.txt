@@ -1,0 +1,5 @@
+
+INSERT INTO keywords (kw, webpage) VALUES ('circle', 'circle.html');
+
+INSERT INTO keywords (kw, webpage) VALUES ('circle', 'circle.pdf');
+

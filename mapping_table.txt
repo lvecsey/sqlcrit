@@ -1,0 +1,6 @@
+
+CREATE TABLE keywords (
+       kw TEXT NOT NULL,
+       webpage TEXT NOT NULL
+       );
+

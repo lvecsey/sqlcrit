@@ -26,14 +26,14 @@ Finally, save and quit sqlite3 as shown below:
 
 
 ```
-.save sqlite.db
+.save sqlcrit.db
 .quit
 ```
 
 Create the sqlcrit.txt critbit mapping file.
 
 ```
-./sqlcrit sqlite.db > sqlcrit.txt.new
+./sqlcrit sqlcrit.db > sqlcrit.txt.new
 mv sqlcrit.txt.new sqlcrit.txt
 ```
 
